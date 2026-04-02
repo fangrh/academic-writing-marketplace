@@ -1,0 +1,27 @@
+{
+  "name": "plugin-template",
+  "version": "0.1.0",
+  "description": "Template plugin for scientific research writing marketplace",
+  "skills": [
+    {
+      "name": "example-skill",
+      "description": "Example skill description",
+      "triggers": ["example trigger keywords"],
+      "file": "skills/example-skill/SKILL.md"
+    }
+  ],
+  "commands": [
+    {
+      "name": "example-command",
+      "description": "Example command description",
+      "file": "commands/example-command/COMMAND.md"
+    }
+  ],
+  "agents": [
+    {
+      "name": "example-agent",
+      "description": "Example agent description",
+      "file": "agents/example-agent/AGENT.md"
+    }
+  ]
+}
