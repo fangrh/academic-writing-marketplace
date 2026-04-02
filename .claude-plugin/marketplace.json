@@ -6,17 +6,17 @@
   },
   "metadata": {
     "description": "Skills, workflows, and tools for scientific research writing",
-    "version": "0.1.0"
+    "version": "0.2.0"
   },
   "plugins": [
     {
       "name": "academic-writing",
       "source": {
-        "source": "url",
-        "url": "https://github.com/fangrh/academic-writing.git"
+        "source": "github",
+        "repo": "fangrh/academic-writing"
       },
-      "description": "Core skills for academic writing: structure, clarity, argumentation, and scholarly communication patterns",
-      "version": "0.1.0",
+      "description": "Academic writing environment with Snakemake builds, papis bibliography, and intelligent citation discovery",
+      "version": "0.2.0",
       "strict": true
     }
   ]
