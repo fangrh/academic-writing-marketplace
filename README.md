@@ -33,28 +33,6 @@ Add this marketplace to Claude Code:
 
 ---
 
-### Reference Management
-
-**Description:** Skills for managing references and citations: APA, MLA, Chicago, IEEE styles. Integration with Zotero, Mendeley, EndNote, and BibTeX workflows
-
-**Categories:** Citations, References, Bibliography
-
-**Install:**
-```bash
-/plugin install reference-management@academic-writing-marketplace
-```
-
-**What you get:**
-- Multiple citation style support (APA, MLA, Chicago, IEEE, Vancouver, etc.)
-- BibTeX workflow integration
-- Reference formatting patterns
-- In-text citation guidance
-- Zotero/Mendeley/EndNote integration
-
-**Repository:** https://github.com/your-username/reference-management
-
----
-
 ## Marketplace Structure
 
 ```
