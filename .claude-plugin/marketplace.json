@@ -13,7 +13,7 @@
       "name": "academic-writing",
       "source": {
         "source": "url",
-        "url": "https://github.com/your-username/academic-writing.git"
+        "url": "https://github.com/fangrh/academic-writing.git"
       },
       "description": "Core skills for academic writing: structure, clarity, argumentation, and scholarly communication patterns",
       "version": "0.1.0",
@@ -23,7 +23,7 @@
       "name": "reference-management",
       "source": {
         "source": "url",
-        "url": "https://github.com/your-username/reference-management.git"
+        "url": "https://github.com/fangrh/reference-management.git"
       },
       "description": "Skills for managing references and citations: APA, MLA, Chicago, IEEE styles. Integration with Zotero, Mendeley, EndNote, and BibTeX workflows",
       "version": "0.1.0",

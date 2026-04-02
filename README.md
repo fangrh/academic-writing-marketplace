@@ -29,7 +29,7 @@ Add this marketplace to Claude Code:
 - Argumentation frameworks
 - Scholarly tone guidance
 
-**Repository:** https://github.com/your-username/academic-writing
+**Repository:** https://github.com/fangrh/academic-writing
 
 ---
 
