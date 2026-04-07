@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Skills, workflows, and tools for scientific research writing",
-    "version": "2.2.0"
+    "version": "2.2.1"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "repo": "fangrh/academic-writing"
       },
       "description": "Academic writing environment with LaTeX-Obsidian extraction, multi-agent iterative review, graph-based orchestration, confidence-based auto-fixing, bidirectional sync, configurable PDF reader, and uniform LaTeX template",
-      "version": "2.2.0",
+      "version": "2.2.1",
       "strict": true
     }
   ]
