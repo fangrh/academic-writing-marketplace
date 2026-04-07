@@ -6,7 +6,7 @@
   },
   "metadata": {
     "description": "Skills, workflows, and tools for scientific research writing",
-    "version": "0.2.0"
+    "version": "2.2.0"
   },
   "plugins": [
     {
@@ -15,8 +15,8 @@
         "source": "github",
         "repo": "fangrh/academic-writing"
       },
-      "description": "Academic writing environment with Snakemake builds, papis bibliography, and intelligent citation discovery",
-      "version": "0.2.0",
+      "description": "Academic writing environment with LaTeX-Obsidian extraction, multi-agent iterative review, graph-based orchestration, confidence-based auto-fixing, bidirectional sync, configurable PDF reader, and uniform LaTeX template",
+      "version": "2.2.0",
       "strict": true
     }
   ]
